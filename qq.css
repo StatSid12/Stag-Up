@@ -1,0 +1,285 @@
+#awesome_video {
+  position: relative; top: 0; left: 0; width: 100%; height: 55em;
+z-index: 200;
+margin-top:-5em;
+}
+
+#nav {
+  z-index: 200;
+}
+#master {
+    background-color: #202020;
+    z-index: -900;
+}
+
+.navbar-brand {
+  position: relative;
+  top: -8px;
+}
+
+.container-fluid {
+    padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+}
+.video-overlay {
+  position:absolute;
+  width: 600px;
+  height: auto;
+  left: 650px;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: relative;
+  margin: 0 auto;
+  text-align: center;
+  padding:35px;
+  z-index: 201;
+}
+.video-section {
+  width: 100%
+  text-align: center;
+}
+
+.featured-text-container a {
+  background-color: #FF3E49;
+  border: none;
+}
+.finalist-section {
+  height: 600px;
+}
+#finalist {
+  margin-top: 1em;
+  font:normal normal normal 48px/1.4em helvetica,helvetica,sans-serif;
+  font-weight:bold;
+  color: #FF3E49;
+}
+.sponsors-section {
+  background-image: url('https://brokenheartsanonymous.files.wordpress.com/2013/08/hand-reaching-out-e1375256589761.jpg');
+  background-size:cover;
+  background-position:top center;
+  height:600px;
+}
+#content {
+	text-align: center;
+  margin: 2em 0 1em;
+  z-index: 200;
+  font-family: 'baskerville', serif;
+}
+
+}
+#finalist {
+  color: #FF3E49;
+  margin-top: -3px;
+  font:normal normal normal 48px/1.4em helvetica,sans-serif;
+  font-weight:bold;
+}
+.finalist-section{
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#intro {
+  font-family: helvetica;
+  font-size: 25px;
+}
+
+.finalist2015 {
+  position:absolute;
+  width: auto;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.9);
+  display: relative;
+  margin: 0 auto;
+  text-align: center;
+  padding:35px;
+  font-size: 20px;
+  font-family: helvetica;
+  border: 2px solid red;
+}
+#sponsors {
+    color: #FF3E49;
+  font:normal normal normal 48px/1.4em helvetica,sans-serif;
+  font-weight:bold;
+  padding:10px 0;
+}
+#gold {
+  border: 3.5px solid gold ;
+  width: 300px;
+  height: 90px;
+  text-align: center;
+  float: left 50%;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:rgba(255, 255, 255, 0.6);
+
+}
+#silver {
+  border: 3.5px solid silver ;
+  width: 400px;
+  height: 90px;
+  text-align: center;
+  float: left 50%;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:rgba(255, 255, 255, 0.6);
+}
+#bronze {
+  border: 3.5px solid darkgoldenrod;
+  background-color: #FFFFFF;
+  width: 500px;
+  height: 90px;
+  text-align: center;
+  float: left 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:rgba(255, 255, 255, 0.6);;
+}
+
+.sub-sponsors-section {
+  padding:20px 0 0 0;
+}
+
+#mentors {
+  color: #FF3E49;
+  font:normal normal normal 48px/1.4em helvetica,sans-serif;
+  font-weight:bold;
+}
+.mentors2{
+  position: absolute;
+  width: auto;
+  height: auto;
+  left: 0;
+  right:0;
+  background-color: rgba(255, 255, 255, 0.9);
+  display: relative;
+  margin: 0 auto;
+  text-align: center;
+  padding:35px;
+  font-family: helvetica;
+  font-size: 20px;
+  border: 2px solid red;
+
+
+}
+#investors {
+  color: #FF3E49;
+  text-shadow: .2em .2em .15em black;
+  margin-top: 8em;
+  font:normal normal normal 48px/1.4em helvetica,sans-serif;
+  font-weight:bold;
+
+}
+#board {
+  margin-top: 1px;
+  text-shadow: .2em .2em .15em black;
+  color: #FF3E49;
+  font:normal normal normal 48px/1.4em helvetica,sans-serif;
+  font-weight:bold;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.investors-section {
+  background-image: url("images/2.jpg");
+  background-size: cover;
+  background-position:top center;
+  height:500px;
+  z-index: 201;
+}
+
+.investors-section1 h2 a {
+  font-family: helvetica;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.7);
+  border: none;
+  height:90px;
+  width: 200px;
+  border-radius:4px;
+  text-align:center;
+  z-index: 202;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.investors-section1 a:hover {
+background-color: #FF3E49;
+}
+
+.investors-section1 a:active{
+background-color: #FF3E49;
+}
+
+.investors-section1 a:visited{
+background-color: #FF3E49;
+}
+
+.investors-section2 h2 a {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.7);
+  border: none;
+  height:90px;
+  width: 200px;
+ border-radius:4px;
+ text-align:center;
+ margin-left:auto
+ z-index: 202;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.investors-section2 a:hover {
+  background-color: #FF3E49;
+}
+
+.investors-section2 a:active{
+background-color: #FF3E49;
+}
+
+.investors-section2 a:visited{
+background-color: #FF3E49;
+}
+
+.board-section {
+  background-image: url('images/3.jpg');
+  background-size: cover;
+}
+
+.board-section li {
+  color: #FF3E49;
+  background: #202020; opacity: 0.8;
+  width: 350px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: helvetica;
+}
+#team {
+text-align: center;
+color: #FF3E49;
+font:normal normal normal 48px/1.4em helvetica,sans-serif;
+font-weight:bold;
+}
+
+.team-section {
+  /*position:absolute;*/
+  width: 600px;
+  height: auto;
+  left: 650px;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding:35px;
+z-index: 201;
+}
+
+#footer img{
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
